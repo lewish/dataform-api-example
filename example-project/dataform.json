@@ -1,0 +1,7 @@
+{
+    "warehouse": "bigquery",
+    "defaultSchema": "dataform",
+    "assertionSchema": "dataform_assertions",
+    "defaultDatabase": "lewishemens-exp",
+    "useRunCache": false
+}
