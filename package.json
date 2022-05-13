@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "@dataform/api": "^1.6.4"
+    "@dataform/cli": "file:./dataform-cli-package-api.tgz"
   }
 }
